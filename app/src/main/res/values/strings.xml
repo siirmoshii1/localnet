@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GhostLink</string>
+    <string name="app_tagline">P2P Local Mesh Communicator</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="target_ip">Target Device IP</string>
+    <string name="send_message">Send</string>
+    <string name="video_call">Call</string>
+    <string name="end_call">End Call</string>
+</resources>

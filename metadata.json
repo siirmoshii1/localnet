@@ -1,0 +1,6 @@
+{
+  "name": "GhostLink P2P",
+  "description": "Local peer-to-peer Wi-Fi text chat and audio/video calling with no internet required",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
